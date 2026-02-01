@@ -57,7 +57,8 @@ s.area(4);
 Rectangel r = new Rectangel();
 r.area(4, 5);
 }*/
-static class tommy{
+
+/*static class tommy{
 public void hitting(){
     System.out.println("hitting...");
 }
@@ -65,5 +66,5 @@ public void hitting(){
 public static void main(String[] args){
 tommy s = new tommy();
 s.hitting();
-}
+}*/
 }
